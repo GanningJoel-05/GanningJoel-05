@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I’m Ganning Joel J
 
 🎓 Electronics and Communication Engineering Student at PSNACET | 💻 Java Backend Developer | 🚀 Java Development Intern @Vinsup Infotech (P) Ltd - ONSITE
@@ -14,6 +12,7 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 ![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen.svg)
 ![Portfolio](https://img.shields.io/badge/Portfolio-GanningJoel-lightgrey.svg)
 
