@@ -70,8 +70,8 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ## 📈 GitHub Stats
 
-![Ganning's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Ganning's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GanningJoel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanningJoel&layout=compact&theme=radical)
 
 ---
 
@@ -81,9 +81,3 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 > _“Every line of code is a step closer to impact.”_  
 
 ---
-
-```
-
----
-
-Let me know when you're ready to add a portfolio site, resume link, or a roadmap section. We can make this the ultimate digital handshake for your career!
