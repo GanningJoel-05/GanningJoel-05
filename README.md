@@ -70,8 +70,8 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ## 📈 GitHub Stats
 
-![Ganning's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GanningJoel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanningJoel&layout=compact&theme=radical)
+![Ganning's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GanningJoel-05&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanningJoel-05&layout=compact&theme=radical)
 
 ---
 
