@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ganning Joel J
 
-🎓 Electronics and Communication Engineering Student at PSNACET | 💻 Java Backend Developer | 🚀 Java Development Intern @Vinsup Infotech (P) Ltd - ONSITE
+🎓 Electronics and Communication Engineering Student at PSNACET | 💻 Passionate Java Backend Developer | 🚀 Java Development Intern @Vinsup Infotech (P) Ltd - ONSITE
 
 Passionate about Java, backend development, databases and real-world problem-solving.  
 Currently, I’m working on projects that combine **Java Backend Technologies** to build scalable applications.
@@ -20,7 +20,7 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ---
 
-## 🔹 About Me
+## 🔹 Profile Summary
 
 - Strong foundation in Core Java (OOP, Collections, Exception Handling, Multithreading, etc.).
 - Hands-on experience with Spring Boot for backend development.
