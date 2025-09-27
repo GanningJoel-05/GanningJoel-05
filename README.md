@@ -13,6 +13,8 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange.svg)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)
+![Render](https://img.shields.io/badge/Render-Deployment-pink.svg)
+![AWS](https://img.shields.io/badge/AWS-Cloud-black.svg)
 ![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen.svg)
 ![Portfolio](https://img.shields.io/badge/Portfolio-GanningJoel-lightgrey.svg)
 
@@ -33,11 +35,13 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, SQL.
-- **Frameworks**: Spring Boot, Hibernate (learning phase).
-- **Databases**: MySQL and PostgreSQL.
-- **Tools & IDEs**: Maven, IntelliJ IDEA, Git, GitHub, Eclipse. 
-- **Other Skills**: Problem Solving, Team Work, Communication and Adaptability.
+| Category        | Technologies & Tools                                      |
+|-----------------|-----------------------------------------------------------|
+| **Languages**   | Java and SQL.                                             |
+| **Frameworks**  | Spring Boot, Hibernate (learning phase).                  |
+| **Databases**   | MySQL and PostgreSQL.                                     |
+| **Tools & IDEs**| Maven, IntelliJ IDEA, Git, GitHub and Eclipse.            |
+| **Other Skills**| Problem Solving, Communication, Adaptability, Team Work.  |
 
 ---
 
@@ -64,7 +68,7 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 - 🌐 [LinkedIn](www.linkedin.com/in/ganningjoelj1609)
 - 💻 [GitHub](https://github.com/GanningJoel-05)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/GanningJoelDev169/)
-- ✉️ Email: ganningjoel169@gmail.com
+- ✉️ [Email](ganningjoel169@gmail.com)
   
 ---
 
