@@ -22,14 +22,14 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ## 🔹 About Me
 
-- 💡 Strong foundation in Core Java (OOP, Collections, Exception Handling, Multithreading, etc.).
-- 🛠️ Hands-on experience with Spring Boot for backend development.
-- 🗄️ Skilled in MySQL and PostgreSQL for database design and integration.
-- 🌐 Built full-stack projects like a Budget Management System (with Chart.js, Spring Boot, PostgreSQL).
-- 🎮 Developed Java console-based applications like a Quiz Game Application.
-- 🏫 Completed internships in Java Full Stack Development (Vinsup Infotech Onsite Internship, Shadowfox Virtual Internship).
-- 🔧 Active in college clubs (Build Club, Robo Club) with technical strategy contributions.
-- 🎯 Career goal → Secure a Java Backend Developer role (Zoho / top tech Product or Service firms).
+- Strong foundation in Core Java (OOP, Collections, Exception Handling, Multithreading, etc.).
+- Hands-on experience with Spring Boot for backend development.
+- Skilled in MySQL and PostgreSQL for database design and integration.
+- Built full-stack projects like a Budget Management System (with Chart.js, Spring Boot, PostgreSQL).
+- Developed Java console-based applications like a Quiz Game Application.
+- Completed internships in Java Full Stack Development (Vinsup Infotech Onsite Internship, Shadowfox Virtual Internship).
+- Active in college clubs (Build Club, Robo Club) with technical strategy contributions.
+- Career goal → Secure a Java Backend Developer role (Zoho / top tech Product or Service firms).
 
 ---
 
@@ -47,28 +47,28 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ## 📌 Projects
 
-- 📊 [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)  
+- [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)  
   A full-stack web app with user authentication, income/expense tracking, budget goals, and data visualization (Spring Boot + MySQL + Chart.js).
 
-- 🎮 [Java Quiz Game](https://github.com/GanningJoel-05/Java-Quiz-Game)  
+- [Java Quiz Game Application](https://github.com/GanningJoel-05/Java-Quiz-Game)  
   An interactive console-based quiz application with score tracking, built in Core Java.
   
 ---
 
 ## 🎯 Strengths
 
-- 🕒 Time Management & Planning  
-- 🤝 Team Collaboration & Communication  
-- 💡 Problem Solving with Logical Approach  
+- Time Management & Planning.
+- Team Collaboration & Communication.
+- Problem Solving with Logical Approach.
 
 ---
 
 ## 📬 Let’s Connect
 
-- 🌐 [LinkedIn](www.linkedin.com/in/ganningjoelj1609)
-- 💻 [GitHub](https://github.com/GanningJoel-05)
-- 🧑‍💻 [LeetCode](https://leetcode.com/u/GanningJoelDev169/)
-- ✉️ [Email](ganningjoel169@gmail.com)
+- [LinkedIn](www.linkedin.com/in/ganningjoelj1609)
+- [GitHub](https://github.com/GanningJoel-05)
+- [LeetCode](https://leetcode.com/u/GanningJoelDev169/)
+- [Email](ganningjoel169@gmail.com)
   
 ---
 
