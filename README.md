@@ -5,7 +5,7 @@
 Passionate about Java, backend development, databases and real-world problem-solving.  
 Currently, I’m working on projects that combine **Java Backend Technologies** to build scalable applications.
 
-[My LeetCode Profile](https://leetcode.com/u/GanningJoelDev169/)
+Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelDev169/)
 
 ---
 
