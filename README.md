@@ -56,19 +56,19 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 ## 📌 Featured Projects
 
 - [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)  
-  A full-stack web app with user authentication, income/expense tracking, budget goals, and data visualization (Spring Boot + MySQL + Chart.js).
+  Bulit a full-stack web app with user authentication, income/expense tracking, budget goals, and data visualization (Spring Boot + MySQL + Chart.js).
 
 - [Java Quiz Game Application](https://github.com/GanningJoel-05/Java-Quiz-Game)  
-  An interactive console-based quiz application with score tracking, built in Core Java.
+  Developed a interactive console-based quiz application with score tracking, built in Core Java.
   
 ---
 
-### 💼 Internship Experiences
+## 💼 Internship Experiences
 
-- 🧪 **Vinsup Infotech (P) Ltd - ONSITE** – Java Full Stack Development  
+-  **Vinsup Infotech (P) Ltd - ONSITE** – Java Full Stack Development  
   Worked on backend APIs, PostgreSQL integration, Spring Boot modules and Frontend Technologies.
 
-- 🧪 **Shadowfox Virtual Internship** – Java Development  
+-  **Shadowfox - Virtual** – Java Development  
   Built mini projects with Java, MySQL and Console Based Applications.
   
 ---
@@ -92,8 +92,8 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 </p>
 
 <p align="center">
-  <strong><em>“Code. Build. Improve. Repeat.”</em></strong><br>
-  <em>“Every line of code is a step closer to impact.”</em>
+  <strong><em>“Code->Build->Improve->Repeat”</em></strong><br>
+  <strong><em>“Every line of code is a step closer to impact.”</em></strong><br>
 </p>
 
 ---
