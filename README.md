@@ -5,6 +5,8 @@
 Passionate about Java, backend development, databases and real-world problem-solving.  
 Currently, I’m working on projects that combine **Java Backend Technologies** to build scalable applications.
 
+[My LeetCode Profile](https://leetcode.com/u/GanningJoelDev169/)
+
 ---
 
 ## 🏷️ My Badges
@@ -26,7 +28,7 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ---
 
-## 🔹 Profile Summary
+## 🧑‍💻 Profile Summary
 
 - Strong foundation in Core Java (OOP, Collections, Exception Handling, Multithreading, etc.).
 - Hands-on experience with Spring Boot for backend development.
@@ -39,7 +41,7 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 | Category        | Technologies & Tools                                      |
 |-----------------|-----------------------------------------------------------|
@@ -51,7 +53,7 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 - [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)  
   A full-stack web app with user authentication, income/expense tracking, budget goals, and data visualization (Spring Boot + MySQL + Chart.js).
@@ -61,33 +63,37 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
   
 ---
 
-## 🎯 Strengths
+### 💼 Internship Experiences
 
-- Time Management & Planning.
-- Team Collaboration & Communication.
-- Problem Solving with Logical Approach.
+- 🧪 **Vinsup Infotech (P) Ltd - ONSITE** – Java Full Stack Development  
+  Worked on backend APIs, PostgreSQL integration, Spring Boot modules and Frontend Technologies.
 
----
-
-## 📬 Let’s Connect
-
-- [LinkedIn](www.linkedin.com/in/ganningjoelj1609)
-- [GitHub](https://github.com/GanningJoel-05)
-- [LeetCode](https://leetcode.com/u/GanningJoelDev169/)
-- [Email](ganningjoel169@gmail.com)
+- 🧪 **Shadowfox Virtual Internship** – Java Development  
+  Built mini projects with Java, MySQL and Console Based Applications.
   
 ---
 
 ## 📈 GitHub Stats
 
-![Ganning's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GanningJoel-05&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanningJoel-05&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GanningJoel-05&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GanningJoel-05&theme=radical" width="48%" />
+  <img sec="https://github-readme-stats.vercel.app/api/top-langs/?username=GanningJoel-05&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
-## ✨ Quotes I Live By
+## 📬 Let’s Connect
 
-> “Code. Build. Improve. Repeat.”  
-> _“Every line of code is a step closer to impact.”_  
+<p align="left">
+  <a href="mailto:ganningjoel169@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ganningjoelj1609" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/GanningJoel-05" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <strong><em>“Code. Build. Improve. Repeat.”</em></strong><br>
+  <em>“Every line of code is a step closer to impact.”</em>
+</p>
 
 ---
