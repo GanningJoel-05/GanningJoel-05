@@ -1,5 +1,3 @@
-Absolutely, Ganning! Here's your fully upgraded GitHub Profile README — recruiter-ready, visually engaging, and packed with personality. It includes badges, clickable project links, a refined tech stack, polished contact section, GitHub stats, and motivational quotes. You can copy-paste this directly into your `README.md` file for your pinned profile repo:
-
 ---
 
 # 👋 Hi, I’m Ganning Joel J
