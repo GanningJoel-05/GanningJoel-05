@@ -58,7 +58,7 @@ Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelD
 - [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)  
   Bulit a full-stack web app with user authentication, income/expense tracking, budget goals, and data visualization (Spring Boot + MySQL + Chart.js).
 
-- [Java Quiz Game Application](https://github.com/GanningJoel-05/Java-Quiz-Game)  
+- [Java Quiz Game Application](https://github.com/GanningJoel-05/Java-Quiz-Game-Project)  
   Developed a interactive console-based quiz application with score tracking, built in Core Java.
   
 ---
