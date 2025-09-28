@@ -83,6 +83,11 @@ Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelD
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GanningJoel-05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 📬 Let’s Connect
 
 <p align="left">
