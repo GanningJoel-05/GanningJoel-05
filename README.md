@@ -75,11 +75,11 @@ Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelD
 
 ## 🏅 Certifications
 
-- ![HackerRank - SQL SkillTest Certification](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-green?logo=hackerrank)  
-- ![HackerRank - Gold Badge in SQL Problem Solving](https://img.shields.io/badge/HackerRank-SQL%20Gold%20Badge-blue?logo=hackerrank)  
-- ![Workshop](https://img.shields.io/badge/Workshop-Smart%20Resume%20Writing-orange)  
-- ![Internship](https://img.shields.io/badge/Internship-Java%20Full%20Stack%20(WINSAP)-purple)  
-- ![Internship](https://img.shields.io/badge/Internship-Virtual%20(Stadof)-lightgrey)
+- [SQL (Basic) Certification – HackerRank](https://www.hackerrank.com/certificates/your-sql-cert-link)
+- [Java (Basic) Certification – HackerRank](https://www.hackerrank.com/certificates/your-java-cert-link)
+- [Java Certification Test – Spoken Tutorial, IIT Bombay](https://spoken-tutorial.org/your-cert-link)
+- [Java Full Stack Developer Internship – Vinsup Infotech (P) Ltd (On-site)](https://drive.google.com/your-vinsup-cert-link)
+- [Java Developer Internship – ShadowFox (Virtual)](https://www.linkedin.com/posts/your-shadowfox-cert-post)
 
 ---
 
