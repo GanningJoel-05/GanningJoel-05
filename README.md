@@ -73,6 +73,16 @@ Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelD
   
 ---
 
+## 🏅 Certifications
+
+- ![HackerRank - SQL SkillTest Certification](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-green?logo=hackerrank)  
+- ![HackerRank - Gold Badge in SQL Problem Solving](https://img.shields.io/badge/HackerRank-SQL%20Gold%20Badge-blue?logo=hackerrank)  
+- ![Workshop](https://img.shields.io/badge/Workshop-Smart%20Resume%20Writing-orange)  
+- ![Internship](https://img.shields.io/badge/Internship-Java%20Full%20Stack%20(WINSAP)-purple)  
+- ![Internship](https://img.shields.io/badge/Internship-Virtual%20(Stadof)-lightgrey)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
