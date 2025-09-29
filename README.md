@@ -6,10 +6,11 @@ Passionate about Java, backend development, databases and real-world problem-sol
 Currently, I’m working on projects that combine **Java Backend Technologies** to build scalable applications.
 
 Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelDev169/)
+Check out my HackerRank Profile - [Click Here](https://www.hackerrank.com/profile/ganningjoelj23ec)
 
 ---
 
-## 🏷️ My Badges
+## 🏷️ Skills Badges
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -65,22 +66,20 @@ Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelD
 
 ## 💼 Internship Experiences
 
--  **Vinsup Infotech (P) Ltd - ONSITE** – Java Full Stack Development  
+-  [**Vinsup Infotech (P) Ltd - ONSITE**](https://www.linkedin.com/posts/ganningjoelj1609_java-springboot-postgresql-activity-7350804318435872769--beD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyjVIMBJTu5kPpX5rTDwY_sYYdIKpm_dEg) – Java Full Stack Development.
   Worked on backend APIs, PostgreSQL integration, Spring Boot modules and Frontend Technologies.
 
--  **Shadowfox - Virtual** – Java Development  
+-  [**Shadowfox - Virtual**](https://www.linkedin.com/posts/ganningjoelj1609_javadeveloper-internshipexperience-shadowfox-activity-7359977643372351488-E2Hi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyjVIMBJTu5kPpX5rTDwY_sYYdIKpm_dEg) – Java Development.
   Built mini projects with Java, MySQL and Console Based Applications.
   
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications and Badges
 
-- [SQL (Basic) Certification – HackerRank](https://www.hackerrank.com/certificates/your-sql-cert-link)
-- [Java (Basic) Certification – HackerRank](https://www.hackerrank.com/certificates/your-java-cert-link)
-- [Java Certification Test – Spoken Tutorial, IIT Bombay](https://spoken-tutorial.org/your-cert-link)
-- [Java Full Stack Developer Internship – Vinsup Infotech (P) Ltd (On-site)](https://drive.google.com/your-vinsup-cert-link)
-- [Java Developer Internship – ShadowFox (Virtual)](https://www.linkedin.com/posts/your-shadowfox-cert-post)
-
+- [SQL (Basic) Certification – HackerRank](https://www.hackerrank.com/certificates/iframe/c4f0014e00bf)
+- [Java (Basic) Certification – HackerRank](https://www.hackerrank.com/certificates/iframe/7b0a1b59435c)
+- [Java Certification Test – Spoken Tutorial, IIT Bombay](https://www.linkedin.com/posts/ganningjoelj1609_iitbombay-java-javacertification-activity-7325567789342048258---Op?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyjVIMBJTu5kPpX5rTDwY_sYYdIKpm_dEg)
+  
 ---
 
 ## 📈 GitHub Stats
