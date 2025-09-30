@@ -50,7 +50,7 @@ Currently, I’m working on projects that combine **Java Backend Technologies** 
 | **Languages**   | Java and SQL.                                             |
 | **Frameworks**  | Spring Boot, Hibernate (learning phase).                  |
 | **Databases**   | MySQL and PostgreSQL.                                     |
-| **Tools & IDEs**| Maven, IntelliJ IDEA, Git, GitHub and Eclipse.            |
+| **Tools & IDEs**| Maven, IntelliJ IDEA, Git, GitHub, Eclipse, Postman, Spring Tools|
 | **Other Skills**| Problem Solving, Communication, Adaptability, Team Work.  |
 
 ---
