@@ -5,6 +5,7 @@
 Passionate about Java, backend development, databases and real-world problem-solving.  
 Currently, I’m working on projects that combine **Java Backend Technologies** to build scalable applications.
 
+- Check out my Portfolio - [Click Here](https://ganning-joel-portfolio.netlify.app/)
 - Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelDev169/)
 - Check out my HackerRank Profile - [Click Here](https://www.hackerrank.com/profile/ganningjoelj23ec)
 - Check out my Linkedin Profile - [Click Here](https://www.linkedin.com/in/ganningjoelj1609)
