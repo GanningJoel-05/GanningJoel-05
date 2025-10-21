@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 🎓 **Electronics and Communication Engineering Student** at PSNACET.                
-💼 **Java Development Intern** @ Vinsup Infotech (P) Ltd - ONSITE.
-💻 Passionate about building **scalable backend systems** and solving real-world problems.  
+💼 **Java Development Intern** @ Vinsup Infotech (P) Ltd - ONSITE.          
+💻 Passionate about building **scalable backend systems** and solving real-world problems.          
 🎯 **Career Goal:** Secure a Java Backend Developer role at product-based companies.
 
 I specialize in developing robust backend applications using **Java**, **Spring Boot**, and **SQL databases**. Currently working on projects that combine modern backend technologies to create efficient, production-ready solutions.
