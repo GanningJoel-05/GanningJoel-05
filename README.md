@@ -1,115 +1,164 @@
-# 👋 Hi, I’m Ganning Joel J
+# Hi there, I'm Ganning Joel! 👋
 
-🎓 Electronics and Communication Engineering Student at PSNACET | 💻 Passionate Java Backend Developer | 🚀 Java Development Intern @Vinsup Infotech (P) Ltd - ONSITE
-
-Passionate about Java, backend development, databases and real-world problem-solving.  
-Currently, I’m working on projects that combine **Java Backend Technologies** to build scalable applications.
-
-- Check out my Portfolio - [Click Here](https://ganning-joel-portfolio.netlify.app/)
-- Check out my LeetCode Profile - [Click Here](https://leetcode.com/u/GanningJoelDev169/)
-- Check out my HackerRank Profile - [Click Here](https://www.hackerrank.com/profile/ganningjoelj23ec)
-- Check out my Linkedin Profile - [Click Here](https://www.linkedin.com/in/ganningjoelj1609)
-
----
-
-## 🏷️ Skills Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-E34F26?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-1572B6?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-F7DF1E?style=for-the-badge&logo=AWS&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-1572B6?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 🧑‍💻 Profile Summary
-
-- Strong foundation in Core Java (OOP, Collections, Exception Handling, Multithreading, etc.).
-- Hands-on experience with Spring Boot for backend development.
-- Skilled in MySQL and PostgreSQL for database design and integration.
-- Built full-stack projects like a Budget Management System (with Chart.js, Spring Boot, PostgreSQL).
-- Developed Java console-based applications like a Quiz Game Application.
-- Completed internships in Java Full Stack Development (Vinsup Infotech Onsite Internship, Shadowfox Virtual Internship).
-- Active in college clubs (Build Club, Robo Club) with technical strategy contributions.
-- Career goal → Secure a Java Backend Developer role (Zoho / top tech Product or Service firms).
-
----
-
-## 🛠️ Tech Stacks
-
-| Category        | Technologies & Tools                                      |
-|-----------------|-----------------------------------------------------------|
-| **Languages**   | Java and SQL.                                             |
-| **Frameworks**  | Spring Boot, Hibernate (learning phase).                  |
-| **Databases**   | MySQL and PostgreSQL.                                     |
-| **Tools & IDEs**| Maven, IntelliJ IDEA, Git, GitHub, Eclipse, Postman, Spring Tools|
-| **Other Skills**| Problem Solving, Communication, Adaptability, Team Work.  |
-
----
-
-## 📌 Featured Projects
-
-- [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)  
-  Bulit a full-stack web app with user authentication, income/expense tracking, budget goals, and data visualization (Spring Boot + MySQL + Chart.js).
-
-- [Java Quiz Game Application](https://github.com/GanningJoel-05/Java-Quiz-Game-Project)  
-  Developed a interactive console-based quiz application with score tracking, built in Core Java.
+<div align="center">
   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Problem+Solver;Full+Stack+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 About Me
+
+🎓 **Electronics and Communication Engineering Student** at PSNACET  
+💼 **Java Development Intern** @ Vinsup Infotech (P) Ltd - ONSITE  
+💻 Passionate about building **scalable backend systems** and solving real-world problems  
+🎯 **Career Goal:** Secure a Java Backend Developer role at product-based companies like Zoho
+
+I specialize in developing robust backend applications using **Java**, **Spring Boot**, and **SQL databases**. Currently working on projects that combine modern backend technologies to create efficient, production-ready solutions.
+
 ---
 
-## 💼 Internship Experiences
+## 🛠️ Tech Stack
 
--  [**Vinsup Infotech (P) Ltd - ONSITE**](https://www.linkedin.com/posts/ganningjoelj1609_java-springboot-postgresql-activity-7350804318435872769--beD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyjVIMBJTu5kPpX5rTDwY_sYYdIKpm_dEg) – Java Full Stack Development.
-  Worked on backend APIs, PostgreSQL integration, Spring Boot modules and Frontend Technologies.
+<div align="center">
 
--  [**Shadowfox - Virtual**](https://www.linkedin.com/posts/ganningjoelj1609_javadeveloper-internshipexperience-shadowfox-activity-7359977643372351488-E2Hi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyjVIMBJTu5kPpX5rTDwY_sYYdIKpm_dEg) – Java Development.
-  Built mini projects with Java, MySQL and Console Based Applications.
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Java Full Stack Development Intern | Vinsup Infotech (P) Ltd - ONSITE
+*Current*
+- Developed RESTful APIs using **Spring Boot** with PostgreSQL integration
+- Implemented backend modules with proper exception handling and validation
+- Collaborated on full-stack features integrating frontend with backend services
+- Gained hands-on experience with production-level code practices
+
+### 💻 Java Development Intern | Shadowfox - Virtual
+*Completed*
+- Built console-based applications demonstrating core Java concepts
+- Worked with MySQL for database operations and CRUD functionality
+- Developed mini-projects focusing on OOP principles and problem-solving
+
+---
+
+## 🎯 Core Competencies
+
+```java
+public class GanningJoel {
+    
+    private String[] coreStrengths = {
+        "Object-Oriented Programming (OOP)",
+        "Data Structures & Algorithms",
+        "RESTful API Development",
+        "Database Design & Optimization",
+        "Spring Boot & Hibernate",
+        "Version Control (Git/GitHub)",
+        "Problem Solving & Debugging"
+    };
+    
+    private String currentFocus = "Building production-ready backend systems";
+    private String lookingFor = "Java Backend Developer opportunities";
+}
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)
+**Tech Stack:** Spring Boot • PostgreSQL • Chart.js • HTML/CSS
+
+A full-stack web application for personal finance management featuring:
+- 🔐 User authentication and authorization
+- 💰 Income and expense tracking with categorization
+- 🎯 Budget goal setting and monitoring
+- 📈 Interactive data visualization using Chart.js
+- 🗃️ PostgreSQL database with optimized queries
+
+### 🎮 [Java Quiz Game Application](https://github.com/GanningJoel-05/Java-Quiz-Game-Project)
+**Tech Stack:** Core Java • Console-Based
+
+An interactive console application demonstrating:
+- ⚡ Real-time score tracking and evaluation
+- 🎯 Multiple-choice question handling
+- 🏆 Leaderboard functionality
+- 📝 Exception handling and input validation
+- 💡 Clean code practices with OOP principles
+
+---
+
+## 📜 Certifications
+
+🏆 [**Java (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/7b0a1b59435c) - HackerRank  
+🏆 [**SQL (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/c4f0014e00bf) - HackerRank  
+🏆 **Java Certification Test** - Spoken Tutorial, IIT Bombay
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GanningJoel-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-## 🏅 Certifications and Badges
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanningJoel-05&layout=compact&theme=tokyonight&hide_border=true)
 
-- [SQL (Basic) Certification – HackerRank](https://www.hackerrank.com/certificates/iframe/c4f0014e00bf)
-- [Java (Basic) Certification – HackerRank](https://www.hackerrank.com/certificates/iframe/7b0a1b59435c)
-- [Java Certification Test – Spoken Tutorial, IIT Bombay](https://www.linkedin.com/posts/ganningjoelj1609_iitbombay-java-javacertification-activity-7325567789342048258---Op?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyjVIMBJTu5kPpX5rTDwY_sYYdIKpm_dEg)
-  
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GanningJoel-05&theme=tokyonight&hide_border=true)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GanningJoel-05&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GanningJoel-05&theme=radical" width="48%" />
-  <img sec="https://github-readme-stats.vercel.app/api/top-langs/?username=GanningJoel-05&layout=compact&theme=radical" width="48%" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GanningJoel-05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ganning-joel-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganningjoelj1609)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GanningJoelDev169/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ganningjoelj23ec)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganningjoel169c@gmail.com)
+
+</div>
 
 ---
 
-## 📬 Let’s Connect
+## 💭 Philosophy
 
-<p align="left">
-  <a href="mailto:ganningjoel169@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ganningjoelj1609" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/GanningJoel-05" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong><em>“Code->Build->Improve->Repeat”</em></strong><br>
-  <strong><em>“Every line of code is a step closer to impact.”</em></strong><br>
-</p>
+> *"Code → Build → Improve → Repeat"*
+
+> *"Every line of code is a step closer to impact"*
+
+</div>
 
 ---
+
+<div align="center">
+
+### 🔥 Open to Backend Development Opportunities | Java Spring Boot | RESTful APIs | Microservices
+
+**Let's build something amazing together!** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=GanningJoel-05&color=brightgreen&style=for-the-badge)
+
+</div>
