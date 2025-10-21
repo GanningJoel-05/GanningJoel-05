@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-🎓 **Electronics and Communication Engineering Student** at PSNACET  
-💼 **Java Development Intern** @ Vinsup Infotech (P) Ltd - ONSITE  
-💻 Passionate about building **scalable backend systems** and solving real-world problems  
-🎯 **Career Goal:** Secure a Java Backend Developer role at product-based companies like Zoho
+🎓 **Electronics and Communication Engineering Student** at PSNACET.
+💼 **Java Development Intern** @ Vinsup Infotech (P) Ltd - ONSITE.
+💻 Passionate about building **scalable backend systems** and solving real-world problems.  
+🎯 **Career Goal:** Secure a Java Backend Developer role at product-based companies.
 
 I specialize in developing robust backend applications using **Java**, **Spring Boot**, and **SQL databases**. Currently working on projects that combine modern backend technologies to create efficient, production-ready solutions.
 
@@ -45,17 +45,17 @@ I specialize in developing robust backend applications using **Java**, **Spring 
 ## 💼 Professional Experience
 
 ### 🏢 Java Full Stack Development Intern | Vinsup Infotech (P) Ltd - ONSITE
-*Current*
-- Developed RESTful APIs using **Spring Boot** with PostgreSQL integration
-- Implemented backend modules with proper exception handling and validation
-- Collaborated on full-stack features integrating frontend with backend services
-- Gained hands-on experience with production-level code practices
+*June 2025 to July 2025*
+- Developed RESTful APIs using **Spring Boot** with PostgreSQL integration.
+- Implemented backend modules with proper exception handling and validation.
+- Collaborated on full-stack features integrating frontend with backend services.
+- Gained hands-on experience with production-level code practices.
 
 ### 💻 Java Development Intern | Shadowfox - Virtual
-*Completed*
-- Built console-based applications demonstrating core Java concepts
-- Worked with MySQL for database operations and CRUD functionality
-- Developed mini-projects focusing on OOP principles and problem-solving
+*July 2025 to July 2025*
+- Built console-based applications demonstrating core Java concepts.
+- Worked with MySQL for database operations and CRUD functionality.
+- Developed mini-projects focusing on OOP principles and problem-solving.
 
 ---
 
@@ -87,21 +87,21 @@ public class GanningJoel {
 **Tech Stack:** Spring Boot • PostgreSQL • Chart.js • HTML/CSS
 
 A full-stack web application for personal finance management featuring:
-- 🔐 User authentication and authorization
-- 💰 Income and expense tracking with categorization
-- 🎯 Budget goal setting and monitoring
+- 🔐 User authentication and authorization.
+- 💰 Income and expense tracking with categorization.
+- 🎯 Budget goal setting and monitoring.
 - 📈 Interactive data visualization using Chart.js
-- 🗃️ PostgreSQL database with optimized queries
+- 🗃️ PostgreSQL database with optimized queries.
 
 ### 🎮 [Java Quiz Game Application](https://github.com/GanningJoel-05/Java-Quiz-Game-Project)
 **Tech Stack:** Core Java • Console-Based
 
 An interactive console application demonstrating:
-- ⚡ Real-time score tracking and evaluation
-- 🎯 Multiple-choice question handling
-- 🏆 Leaderboard functionality
-- 📝 Exception handling and input validation
-- 💡 Clean code practices with OOP principles
+- ⚡ Real-time score tracking and evaluation.
+- 🎯 Multiple-choice question handling.
+- 🏆 Leaderboard functionality.
+- 📝 Exception handling and input validation.
+- 💡 Clean code practices with OOP principles.
 
 ---
 
@@ -121,7 +121,7 @@ An interactive console application demonstrating:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanningJoel-05&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GanningJoel-05&theme=tokyonight&hide_border=true)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=GanningJoel-05&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -155,7 +155,7 @@ An interactive console application demonstrating:
 
 <div align="center">
 
-### 🔥 Open to Backend Development Opportunities | Java Spring Boot | RESTful APIs | Microservices
+### 🔥 Open to Backend Development Opportunities
 
 **Let's build something amazing together!** 🚀
 
