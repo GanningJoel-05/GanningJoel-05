@@ -2,18 +2,23 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Problem+Solver;Full+Stack+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Spring+Boot+%7C+MySQL+%7C+REST+APIs;Problem+Solver+%7C+DSA+Learner;Building+Real-World+Projects)](https://git.io/typing-svg)
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-🎓 **Electronics and Communication Engineering Student** at PSNACET.                
-💼 **Java Development Intern** @ Vinsup Infotech (P) Ltd - ONSITE.          
-💻 Passionate about building **scalable backend systems** and solving real-world problems.          
-🎯 **Career Goal:** Secure a Java Backend Developer role at product-based companies.
+🎓 **ECE Student** at **PSNACET**  
+🏆 **ZOHO CLIQTRIX 2026 Hackathon Participant** (Real-world product building)
+💼 **Java Development Intern** @ **Vinsup Infotech (P) Ltd** (Onsite)  
+🧠 Focused on **Backend Development (Java + Spring Boot + MySQL)** and building production-ready applications  
+🏆 Participated in **Hackathons & real-world development activities**  
+👥 **Technical Strategist Advisor – Robo Club** | Member – **Build Club**  
+🎯 **Career Goal:** Java Backend Developer (Product-based companies)
 
-I specialize in developing robust backend applications using **Java**, **Spring Boot**, and **SQL databases**. Currently working on projects that combine modern backend technologies to create efficient, production-ready solutions.
+I enjoy designing scalable REST APIs, working with databases, and building backend systems with clean architecture and real-world use cases.
 
 ---
 
@@ -21,22 +26,31 @@ I specialize in developing robust backend applications using **Java**, **Spring 
 
 <div align="center">
 
-### Languages & Frameworks
+### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Databases
+### ⚙️ Backend Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring JDBC](https://img.shields.io/badge/Spring_JDBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Technologies
+### 🌐 Frontend (for Full Stack Projects)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=000000)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
 
@@ -67,7 +81,7 @@ public class GanningJoel {
     private String[] coreStrengths = {
         "Object-Oriented Programming (OOP)",
         "Data Structures & Algorithms",
-        "RESTful API Development",
+        "Spring Boot RESTful API Development",
         "Database Design & Optimization",
         "Spring Boot & Hibernate",
         "Version Control (Git/GitHub)",
@@ -102,6 +116,14 @@ An interactive console application demonstrating:
 - 🏆 Leaderboard functionality.
 - 📝 Exception handling and input validation.
 - 💡 Clean code practices with OOP principles.
+
+---
+
+## 🏆 Achievements & Involvement
+- 🥇 **SQL Gold Badge** on HackerRank
+- 🏆 Participated in **ZOHO CLIQTRIX 2026 Hackathon**
+- 👨‍💻 Technical Strategist Advisor – Robo Club  
+- 🚀 Member – Build Club
 
 ---
 
@@ -146,7 +168,6 @@ An interactive console application demonstrating:
 <div align="center">
 
 > *"Code → Build → Improve → Repeat"*
-
 > *"Every line of code is a step closer to impact"*
 
 </div>
