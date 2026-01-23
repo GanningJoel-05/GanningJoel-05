@@ -10,7 +10,7 @@
 
 🎓 **ECE Student** at **PSNACET**  
 🏆 **ZOHO CLIQTRIX 2026 Hackathon Participant** (Real-world product building)
-💼 **Java Development Intern** @ **Vinsup Infotech (P) Ltd** (Onsite)  
+💼 **Java Development Intern** @ **Vinsup Infotech (P) Ltd** **(Onsite)**  
 🧠 Focused on **Backend Development (Java + Spring Boot + MySQL)** and building production-ready applications  
 🏆 Participated in **Hackathons & real-world development activities**  
 👥 **Technical Strategist Advisor – Robo Club** | Member – **Build Club**  
