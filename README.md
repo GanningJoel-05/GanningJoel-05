@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-🎓 **ECE Student** at **PSNA College of Engineering and Technology** (CGPA: 8.42/10)
-💼 **Java Backend Developer Intern** @ **Vinsup Infotech (P) Ltd** *(Onsite)*
-🧠 Focused on **Backend Development** — Java, Spring Boot, Hibernate, and SQL
-🏆 **Fantomcode 2026** National Hackathon Finalist · **Zoho Cliqtrix 2026** Participant
-👥 **Technical Strategist Advisor** – Robo Club · **Member** – Build Club
-🎯 **Career Goal:** Java Backend Developer role at a product-based company
+- 🎓 **ECE Student** at **PSNA College of Engineering and Technology** (CGPA: 8.42/10)
+- 💼 **Java Backend Developer Intern** @ **Vinsup Infotech (P) Ltd** *(Onsite)*
+- 🧠 Focused on **Backend Development** — Java, Spring Boot, Hibernate, and SQL
+- 🏆 **Fantomcode 2026** National Hackathon Finalist · **Zoho Cliqtrix 2026** Participant
+- 👥 **Technical Strategist Advisor** – Robo Club · **Member** – Build Club
+= 🎯 **Career Goal:** Java Backend Developer role at a product-based company
 
 I enjoy designing clean REST APIs, working with relational databases, and building backend systems with solid architecture and real-world use cases. Currently sharpening my Data Structures & Algorithms and preparing for backend engineering placements.
 
