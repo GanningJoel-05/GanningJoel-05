@@ -10,9 +10,10 @@
 
 - 🎓 **ECE Student** at **PSNA College of Engineering and Technology** (CGPA: 8.42/10)
 - 💼 **Java Backend Developer Intern** @ **Vinsup Infotech (P) Ltd** *(Onsite)*
-- 🧠 Focused on **Backend Development** — Java, Spring Boot, Hibernate, and SQL
-- 🏆 **Fantomcode 2026** National Hackathon Finalist · **Zoho Cliqtrix 2026** Participant
-- 👥 **Technical Strategist Advisor** – Robo Club · **Member** – Build Club
+- 🧠 Focused on **Backend Development** - Java, Spring Boot, Hibernate, and SQL
+- 🏆 **Fantomcode 2026** National Hackathon Finalist
+- 🏆 **Zoho Cliqtrix 2026** Participant
+- 👥 **Technical Strategist Advisor** - Robo Club and **Club Member** - Build Club
 = 🎯 **Career Goal:** Java Backend Developer role at a product-based company
 
 I enjoy designing clean REST APIs, working with relational databases, and building backend systems with solid architecture and real-world use cases. Currently sharpening my Data Structures & Algorithms and preparing for backend engineering placements.
@@ -95,13 +96,13 @@ public class GanningJoel {
 
 ## 🚀 Featured Projects
 
-### 🎫 ResolviaAI — AI-Powered Smart Ticket Management System
+### 🎫 ResolviaAI - AI-Powered Smart Ticket Management System
 **Tech Stack:** Spring Boot • Hibernate • SQL • Gemini API • JWT
 
 Built as part of **Fantomcode 2026**, a national-level 24-hour hackathon (250+ teams, finalist):
 - 🤖 Designed AI-based ticket management workflows with escalation and human-review logic.
 - 🔐 Implemented secure Spring Boot REST APIs, JWT authentication, and SQL transactions.
-- 🧑‍🤝‍🧑 Owned backend development solo as part of a hackathon team; a teammate built the frontend and dashboard UI.
+- 🧑‍🤝‍🧑 Owned backend development solo as part of a hackathon team; my teammates built the frontend and dashboard UI.
 
 ### 📊 [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)
 **Tech Stack:** Spring Boot • PostgreSQL • Hibernate • JWT
@@ -130,22 +131,22 @@ A backend-only project built to demonstrate API design without any frontend depe
 
 ## 🏆 Achievements
 
-- 🏅 **Finalist** — Fantomcode 2026 National Hackathon (250+ teams, 24 hours)
-- 🏆 **Zoho Cliqtrix 2026** — Corporate Hackathon Participant
-- 🥇 **HackerRank Gold Badge** — SQL
-- 🥈 **HackerRank Silver Badge** — Java
-- 🏅 **Finalist** — Coder Arena Coding Competition
-- 🥉 **3rd Place** — College Coding Competition, PSNA College of Engineering and Technology
-- 🏆 **1st Place** — Paper Presentation, AI-Powered Smart Pothole Detection System
+- 🏅 **Finalist** - Fantomcode 2026 National Hackathon (250+ teams, 24 hours)
+- 🏆 **Zoho Cliqtrix 2026** - Corporate Hackathon Participant
+- 🥇 **HackerRank Gold Badge** - SQL
+- 🥈 **HackerRank Silver Badge** - Java
+- 🏅 **Finalist** - PCI Coder Arena Coding Competition
+- 🥉 **3rd Place** - College Coding Competition, PSNA College of Engineering and Technology
+- 🏆 **1st Place** - Paper Presentation, AI-Powered Smart Pothole Detection System
 
 ---
 
 ## 📜 Certifications
 
-🏆 [**SQL (Intermediate) Certification**](https://www.hackerrank.com/certificates/iframe/68caa5f6caf9) — HackerRank
-🏆 [**Problem Solving (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/429672573c9f) — HackerRank
-🏆 [**SQL (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/c4f0014e00bf) — HackerRank
-🏆 [**Java (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/7b0a1b59435c) — HackerRank
+- 🏆 [**SQL (Intermediate) Certification**](https://www.hackerrank.com/certificates/iframe/68caa5f6caf9) — HackerRank
+- 🏆 [**Problem Solving (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/429672573c9f) — HackerRank
+- 🏆 [**SQL (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/c4f0014e00bf) — HackerRank
+- 🏆 [**Java (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/7b0a1b59435c) — HackerRank
 
 ---
 
