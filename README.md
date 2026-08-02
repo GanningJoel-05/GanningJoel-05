@@ -25,47 +25,33 @@ I enjoy designing clean REST APIs, working with relational databases, and buildi
 
 <div align="center">
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+##### 👨‍💻 Languages
+<img src="https://img.shields.io/badge/Java-1B3A5C?style=flat-square&logo=openjdk&logoColor=ED8B00" height="30"/> <img src="https://img.shields.io/badge/SQL-1B3A5C?style=flat-square&logo=postgresql&logoColor=ED8B00" height="30"/>
 
-### ⚙️ Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<br>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+##### ⚙️ Backend & APIs
+<img src="https://img.shields.io/badge/Spring_Boot-14342B?style=flat-square&logo=springboot&logoColor=6DB33F" height="30"/> <img src="https://img.shields.io/badge/Spring_MVC-14342B?style=flat-square&logo=spring&logoColor=6DB33F" height="30"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-14342B?style=flat-square&logo=spring&logoColor=6DB33F" height="30"/> <img src="https://img.shields.io/badge/Hibernate-14342B?style=flat-square&logo=hibernate&logoColor=6DB33F" height="30"/> <img src="https://img.shields.io/badge/Spring_Security-14342B?style=flat-square&logo=springsecurity&logoColor=6DB33F" height="30"/> <img src="https://img.shields.io/badge/REST_APIs-14342B?style=flat-square&logo=fastapi&logoColor=6DB33F" height="30"/> <img src="https://img.shields.io/badge/JWT-14342B?style=flat-square&logo=jsonwebtokens&logoColor=6DB33F" height="30"/>
 
-### 🧩 Core CS Fundamentals
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6F00?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-3776AB?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating_Systems-003B57?style=for-the-badge)
-![CN](https://img.shields.io/badge/Computer_Networks-2E9EF7?style=for-the-badge)
+<br>
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+##### 🗄️ Databases
+<img src="https://img.shields.io/badge/MySQL-0E2A3D?style=flat-square&logo=mysql&logoColor=4FC3F7" height="30"/> <img src="https://img.shields.io/badge/PostgreSQL-0E2A3D?style=flat-square&logo=postgresql&logoColor=4FC3F7" height="30"/>
 
-### 🤖 AI-Assisted Development
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+<br>
+
+##### 🧩 Core CS Fundamentals
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2B1F3D?style=flat-square&logoColor=9D8CFF" height="30"/> <img src="https://img.shields.io/badge/OOP-2B1F3D?style=flat-square&logoColor=9D8CFF" height="30"/> <img src="https://img.shields.io/badge/DBMS-2B1F3D?style=flat-square&logoColor=9D8CFF" height="30"/> <img src="https://img.shields.io/badge/Operating_Systems-2B1F3D?style=flat-square&logoColor=9D8CFF" height="30"/> <img src="https://img.shields.io/badge/Computer_Networks-2B1F3D?style=flat-square&logoColor=9D8CFF" height="30"/>
+
+<br>
+
+##### 🛠 Tools & Platforms
+<img src="https://img.shields.io/badge/Git-3D2B1F?style=flat-square&logo=git&logoColor=FFA07A" height="30"/> <img src="https://img.shields.io/badge/GitHub-3D2B1F?style=flat-square&logo=github&logoColor=FFA07A" height="30"/> <img src="https://img.shields.io/badge/Maven-3D2B1F?style=flat-square&logo=apachemaven&logoColor=FFA07A" height="30"/> <img src="https://img.shields.io/badge/Postman-3D2B1F?style=flat-square&logo=postman&logoColor=FFA07A" height="30"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-3D2B1F?style=flat-square&logo=intellijidea&logoColor=FFA07A" height="30"/> <img src="https://img.shields.io/badge/Eclipse-3D2B1F?style=flat-square&logo=eclipseide&logoColor=FFA07A" height="30"/> <img src="https://img.shields.io/badge/VS_Code-3D2B1F?style=flat-square&logo=visualstudiocode&logoColor=FFA07A" height="30"/> <img src="https://img.shields.io/badge/Docker-3D2B1F?style=flat-square&logo=docker&logoColor=FFA07A" height="30"/>
+
+<br>
+
+##### 🤖 AI-Assisted Development
+<img src="https://img.shields.io/badge/Claude-3D1F2B?style=flat-square&logo=anthropic&logoColor=FF8B7A" height="30"/> <img src="https://img.shields.io/badge/ChatGPT-3D1F2B?style=flat-square&logo=openai&logoColor=FF8B7A" height="30"/> <img src="https://img.shields.io/badge/Cursor-3D1F2B?style=flat-square&logo=cursor&logoColor=FF8B7A" height="30"/> <img src="https://img.shields.io/badge/GitHub_Copilot-3D1F2B?style=flat-square&logo=githubcopilot&logoColor=FF8B7A" height="30"/> <img src="https://img.shields.io/badge/Gemini-3D1F2B?style=flat-square&logo=googlegemini&logoColor=FF8B7A" height="30"/> <img src="https://img.shields.io/badge/Perplexity-3D1F2B?style=flat-square&logo=perplexity&logoColor=FF8B7A" height="30"/>
 
 </div>
 
