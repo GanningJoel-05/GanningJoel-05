@@ -196,6 +196,30 @@ Higher Secondary Education (Class XII) — Percentage: 89% | Dindigul, Tamil Nad
 
 ---
 
+## 🔥 Activity & Contribution Graph
+
+<div align="center">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GanningJoel-05&bg_color=0D1117&color=2E9EF7&line=ED8B00&point=FFFFFF&area=true&area_color=2E9EF7&title_color=2E9EF7&hide_border=true" width="100%" alt="contribution activity graph"/>
+
+<br><br>
+
+**Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GanningJoel-05/GanningJoel-05/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GanningJoel-05/GanningJoel-05/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/GanningJoel-05/GanningJoel-05/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
