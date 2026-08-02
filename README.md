@@ -2,21 +2,22 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Spring+Boot+%7C+SQL+%7C+REST+APIs;Problem+Solver+%7C+DSA+Learner;Building+Production-Ready+Backend+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+JWT+Security;DSA+%7C+System+Design+%7C+OOP;Building+Scalable%2C+Secure+Backend+Systems)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
--  **ECE Student** at **PSNA College of Engineering and Technology** (CGPA: 8.42/10)
--  **Java Backend Developer Intern** @ **Vinsup Infotech (P) Ltd** *(Onsite)*
--  Focused on **Backend Development** - Java, Spring Boot, Hibernate, and SQL
--  **Fantomcode 2026** National Hackathon Finalist
--  **Zoho Cliqtrix 2026** Participant
--  **Technical Strategist Advisor** - Robo Club and **Club Member** - Build Club
-=  **Career Goal:** Java Backend Developer role at a product-based company
+- 🎓 **ECE Student** at **PSNA College of Engineering and Technology** (CGPA: 8.42/10) | 2023 – 2027
+- 💼 **Java Full Stack Developer Intern** @ **Vinsup Infotech (P) Ltd** *(On-Site, Madurai)*
+- 🧠 Specializing in **scalable, secure REST APIs** with Java, Spring Boot, Spring Data JPA, Hibernate, MySQL & PostgreSQL
+- 🔐 Strong focus on **JWT Authentication, Spring Security & Role-Based Access Control (RBAC)**
+- 🏆 **FantomCode 2026** National Hackathon Finalist (Team Lead)
+- 🤖 **Zoho Cliqtrix 2025** AI-Powered Bot Building Contest Participant
+- ⚙️ **Technical Strategist Advisor** – Robo Club | **Active Member** – Build Club
+- 🎯 **Career Goal:** Java Backend Developer role at a product-based company
 
-I enjoy designing clean REST APIs, working with relational databases, and building backend systems with solid architecture and real-world use cases. Currently sharpening my Data Structures & Algorithms and preparing for backend engineering placements.
+I enjoy designing clean REST APIs, working with relational databases, and building production-ready backend systems backed by solid **DSA, OOP, and System Design fundamentals**. Currently sharpening my problem-solving skills while preparing for backend engineering placements.
 
 ---
 
@@ -26,48 +27,57 @@ I enjoy designing clean REST APIs, working with relational databases, and buildi
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Backend Frameworks & Libraries
+### ⚙️ Backend & APIs
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠 Tools
+### 🧩 Core CS Fundamentals
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6F00?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-3776AB?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-003B57?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer_Networks-2E9EF7?style=for-the-badge)
+
+### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 AI-Assisted Development
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Internship Experience
 
-### 🏢 Java Backend Developer Intern | Vinsup Infotech (P) Ltd — ONSITE
-*June 2025 – July 2025*
-- Implemented backend services for a budget management platform using **Spring Boot** and **PostgreSQL**.
-- Built RESTful endpoints, JWT authorization, role-based access control, and optimized database queries.
-- Improved code quality with JUnit tests and collaborated with the frontend team in Agile sprints using Git and Postman.
-
-### 💻 Java Development Intern | Shadowfox — Virtual
-*July 2025*
-- Built console-based applications demonstrating core Java concepts.
-- Worked with MySQL for database operations and CRUD functionality.
-- Developed mini-projects focused on OOP principles and problem-solving.
+### 🏢 Java Full Stack Developer Intern | Vinsup Infotech (P) Ltd — ON-SITE
+*June 2025 – July 2025 | Madurai, Tamil Nadu, India*
+- Architected and delivered scalable RESTful APIs using **Java, Spring Boot, Spring Data JPA, and PostgreSQL** for a Budget Management System, powering auth, transaction tracking, and real-time dashboard analytics.
+- Secured application backends with **Spring Security and BCrypt** password hashing, hardened CORS policies, normalized auth inputs to prevent login mismatches, and optimized Hibernate database mappings.
+- Collaborated within a **5-member Agile engineering team** using Git/GitHub, establishing API contracts and debugging frontend integration issues to ensure seamless end-to-end features on schedule.
 
 ---
 
@@ -78,16 +88,18 @@ public class GanningJoel {
 
     private String[] coreStrengths = {
         "Object-Oriented Programming (OOP)",
-        "Data Structures & Algorithms",
+        "Data Structures & Algorithms (DSA)",
+        "System Design Fundamentals",
         "Spring Boot RESTful API Development",
-        "Database Design & Optimization",
-        "Spring Boot & Hibernate",
-        "JWT Authentication & Security",
+        "Spring Security & JWT Authentication",
+        "Role-Based Access Control (RBAC)",
+        "Database Design & Optimization (MySQL / PostgreSQL)",
         "Version Control (Git/GitHub)",
-        "Problem Solving & Debugging"
+        "API Testing & Documentation (Postman, Swagger)",
+        "Agile / Scrum Collaboration"
     };
 
-    private String currentFocus = "Building production-ready backend systems";
+    private String currentFocus = "Building scalable, secure backend systems";
     private String lookingFor = "Java Backend Developer opportunities";
 }
 ```
@@ -96,20 +108,26 @@ public class GanningJoel {
 
 ## 🚀 Featured Projects
 
-### 🎫 ResolviaAI - AI-Powered Smart Ticket Management System
-**Tech Stack:** Spring Boot • Hibernate • SQL • Gemini API • JWT
+### 🎫 AI-Powered Ticket Management System (Human-in-the-Loop)
+**Tech Stack:** Spring Boot • PostgreSQL • JWT • Google Gemini 2.5 Flash API
+*March 2026 – April 2026*
+- Designed and built a Spring Boot backend with RESTful APIs, PostgreSQL, and JWT authentication, integrating the **Gemini 2.5 Flash API** for automated ticket classification and AI-generated solution suggestions.
+- Built **Human-in-the-Loop (HITL)** approval workflows with Role-Based Access Control (USER/ADMIN roles), combining AI-assisted ticket resolution with secure access control and real-time dashboard analytics.
+- Built as part of **FantomCode 2026**, a national-level 24-hour hackathon (250+ teams, finalist as Team Lead).
 
-Built as part of **Fantomcode 2026**, a national-level 24-hour hackathon (250+ teams, finalist):
-- Designed AI-based ticket management workflows with escalation and human-review logic.
-- Implemented secure Spring Boot REST APIs, JWT authentication, and SQL transactions.
-- Owned backend development solo as part of a hackathon team; my teammates built the frontend and dashboard UI.
+### 🍔 Online Food Ordering System - Pure Spring Boot Application
+**Tech Stack:** Spring Boot • Spring Security • JWT • PostgreSQL • Docker • Swagger
+*June 2026 – July 2026*
+- Architected a scalable multi-role backend enforcing **two-layer authorization** (RBAC + resource-ownership) with automated Swagger UI documentation.
+- Engineered a deterministic **order lifecycle state machine** rejecting invalid status transitions.
+- Integrated **optimistic locking (@Version)** for concurrent menu edits and containerized PostgreSQL using Docker.
 
 ### 📊 [Budget Management System](https://github.com/GanningJoel-05/Budget-Management-System)
-**Tech Stack:** Spring Boot • PostgreSQL • Hibernate • JWT
+**Tech Stack:** Spring Boot • PostgreSQL • Hibernate • Spring Security • JWT
 
 Built during my internship at Vinsup Infotech:
 - Backend for income, expense, savings, and budget planning with secure user data handling.
-- Transaction tracking and optimized PostgreSQL queries.
+- Transaction tracking, real-time dashboard analytics, and optimized PostgreSQL queries.
 - Owned backend development; a teammate built the frontend dashboards and charts.
 
 ### ⚙️ Smart Queue Management System *(Pure Backend Project)*
@@ -129,24 +147,38 @@ A backend-only project built to demonstrate API design without any frontend depe
 
 ---
 
-## 🏆 Achievements
+## 🏆 Leadership & Achievements
 
--  **Finalist** - Fantomcode 2026 National Hackathon (250+ teams, 24 hours)
--  **Zoho Cliqtrix 2026** - Corporate Hackathon Participant
--  **HackerRank Gold Badge** - SQL
--  **HackerRank Silver Badge** - Java
--  **Finalist** - PCI Coder Arena Coding Competition
--  **3rd Place** - College Coding Competition, PSNA College of Engineering and Technology
--  **1st Place** - Paper Presentation, AI-Powered Smart Pothole Detection System
+- 🥇 **24 hrs Hackathon Finalist (Team Lead)** - FantomCode 2026 National-Level Hackathon (250+ teams)
+- 🏅 **Finalist** - Coder Arena Coding Competition
+- 🥉 **3rd Place** - PSNACET Coding Competition (INR 750 Prize)
+- 🏆 **Winner (Paper Presentation)** - AI-Powered Smart Pothole Detection System, PSNACET
+- 🤖 **Hackathon Participant** - AI-Powered Bot Building Contest, Zoho Cliqtrix 2025
+- ⚙️ **Technical Strategist Advisor** - Robo Club, PSNA College of Engineering and Technology
+- 🛠️ **Active Club Member** - Build Club, PSNA College of Engineering and Technology
+- 🥇 **HackerRank Gold Badge** - SQL
+- 🥈 **HackerRank Silver Badge** - Java
 
 ---
 
 ## 📜 Certifications
 
--  [**SQL (Intermediate) Certification**](https://www.hackerrank.com/certificates/iframe/68caa5f6caf9) - HackerRank
--  [**Problem Solving (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/429672573c9f) - HackerRank
--  [**SQL (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/c4f0014e00bf) - HackerRank
--  [**Java (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/7b0a1b59435c) - HackerRank
+- [**SQL (Intermediate) Certification**](https://www.hackerrank.com/certificates/iframe/68caa5f6caf9) - HackerRank
+- [**SQL (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/c4f0014e00bf) - HackerRank
+- [**Java (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/7b0a1b59435c) - HackerRank
+- [**Problem Solving (Basic) Certification**](https://www.hackerrank.com/certificates/iframe/429672573c9f) - HackerRank
+- **Object-Oriented Programming (OOP) Certification** - TakeUForward
+- **Claude Code 101 Certification** - Anthropic Academy
+
+---
+
+## 🎓 Education
+
+**PSNA College of Engineering and Technology** | 2023 – 2027
+B.E. Electronics and Communication Engineering — CGPA: 8.42/10 | Dindigul, Tamil Nadu, India
+
+**St. Mary's Higher Secondary School** | 2022 – 2023
+Higher Secondary Education (Class XII) — Percentage: 89% | Dindigul, Tamil Nadu, India
 
 ---
 
@@ -172,7 +204,8 @@ A backend-only project built to demonstrate API design without any frontend depe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganningjoelj1609)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GanningJoelDev169/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/j_joel_0549/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganningjoel169c@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganningjoel169@gmail.com)
 
 </div>
 
@@ -191,7 +224,7 @@ A backend-only project built to demonstrate API design without any frontend depe
 
 <div align="center">
 
-### 🔥 Open to Backend Developer Opportunities
+### 🔥 Open to Java Backend Developer Opportunities
 
 **Let's build something reliable together!** 🚀
 
