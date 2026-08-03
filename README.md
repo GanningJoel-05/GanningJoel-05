@@ -168,6 +168,20 @@ Higher Secondary Education (Class XII) — Percentage: 89% | Dindigul, Tamil Nad
 
 ---
 
+## 🧩 LeetCode Progress
+
+<div align="center">
+
+[![Ganning Joel's LeetCode Stats](https://leetcard.jacoblin.cool/GanningJoelDev169?theme=dark&font=Baloo+2&ext=heatmap)](https://leetcode.com/u/GanningJoelDev169/)
+
+</div>
+
+<div align="center">
+<sub>Live card — regenerates from my LeetCode profile on every page load, no manual updates needed.</sub>
+</div>
+
+---
+
 ## 🔥 Activity & Contribution Graph
 
 <div align="center">
